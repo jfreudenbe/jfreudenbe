@@ -21,15 +21,16 @@ I’m a **Software Engineer** with a passion for **UI/UX Design**. Check out my 
     </a>
     <br>
     <strong>Traffic Simulation Demo - Unity & C#</strong>
-</p>
-
-<p align="center">
-    <!-- Second Video -->
-    <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ" target="_blank">
+ <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ" target="_blank">
         <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png" width="400px" />
     </a>
     <br>
     <strong>High Mobility FPS Demo - Unity & C#</strong>
+</p>
+
+<p align="center">
+    <!-- Second Video -->
+   
 </p>
 
 ---
@@ -40,7 +41,7 @@ As a **Working Student** at Mecasa, I contribute to their website's downloadable
 
 <p align="center">
     <a href="https://www.mecasa.de/downloads/#Antraege" target="_blank">
-        <img src="https://www.mecasa.de/wp-content/uploads/2020/01/mecasa-logo.svg" alt="Mecasa Logo" width="300px" />
+        <img src="https://www.mecasa.de/assets/images/mecasa-logo-hoch-cmyk-600x100.jpg" alt="Mecasa Logo" width="300px" />
     </a>
 </p>
 
