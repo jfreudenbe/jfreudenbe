@@ -14,26 +14,26 @@ I’m a **Software Engineer** with a passion for **UI/UX Design**. Check out my 
 
 ### 🎥 **Demo Videos**
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <!-- First Video -->
-    <div style="text-align: center;">
-        <a href="https://www.youtube.com/watch?v=Hk_KzLh9cA8" target="_blank">
-            <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png" width="400px" />
-        </a>
-        <br>
-        <strong>Traffic Simulation Demo - Unity & C#</strong>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ" target="_blank">
-            <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png" width="400px" />
-        </a>
-        <br>
-        <strong>High Mobility FPS Demo - Unity & C#</strong>
-    </div>
-
-
-    
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- First Video -->
+      <a href="https://www.youtube.com/watch?v=Hk_KzLh9cA8" target="_blank">
+        <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png" width="400px" />
+      </a>
+      <br>
+      <strong>Traffic Simulation Demo - Unity & C#</strong>
+    </td>
+    <td align="center">
+      <!-- Second Video -->
+      <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ" target="_blank">
+        <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png" width="400px" />
+      </a>
+      <br>
+      <strong>High Mobility FPS Demo - Unity & C#</strong>
+    </td>
+  </tr>
+</table>
 
 
 
