@@ -13,14 +13,41 @@ I’m a **Software Engineer** with a passion for **UI/UX Design**. Check out my 
 ---
 
 ### 🎥 **Demo Videos**
+
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=Hk_KzLh9cA8">
+    <!-- First Video -->
+    <a href="https://www.youtube.com/watch?v=Hk_KzLh9cA8" target="_blank">
         <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png" width="400px" />
     </a>
-     <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ">
+    <br>
+    <strong>Traffic Simulation Demo - Unity & C#</strong>
+</p>
+
+<p align="center">
+    <!-- Second Video -->
+    <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ" target="_blank">
         <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png" width="400px" />
     </a>
+    <br>
+    <strong>High Mobility FPS Demo - Unity & C#</strong>
 </p>
+
+---
+
+### 📂 **My Work at Mecasa**
+
+As a **Working Student** at Mecasa, I contribute to their website's downloadable forms section. Here is some of the work I’ve done, which you can find on the Mecasa website:
+
+<p align="center">
+    <a href="https://www.mecasa.de/downloads/#Antraege" target="_blank">
+        <img src="https://www.mecasa.de/wp-content/uploads/2020/01/mecasa-logo.svg" alt="Mecasa Logo" width="300px" />
+    </a>
+</p>
+
+**Explore my contributions** here: [Mecasa Downloads](https://www.mecasa.de/downloads/#Antraege)
+
+---
+
 
 ---
 
