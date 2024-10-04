@@ -1,24 +1,24 @@
-<p align="center">
-    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Julian</h1>
 
-I’m a **Web Developer**, **UI/UX Designer**, and **Content Creator**. Check out my latest work below!
+I’m a **Software Engineer** with a passion for **UI/UX Design**. Check out my latest work below!
 
 ---
 
-### 🚀 **Current Projects**
+### 🚀 **Recent Projects**
 - **Web Forms**: Interactive web forms to streamline user communication.  
 - **Traffic Simulation**: Simulating traffic systems and object detection.  
-- **High Mobility FPS**: Developing a fast-paced first-person shooter.
+- **High Mobility FPS**: Developing a Demo of a fast-paced first-person shooter.
 
 ---
 
 ### 🎥 **Demo Videos**
 <p align="center">
-    <a href="YOUR_VIDEO_LINK">
-        <img src="YOUR_VIDEO_THUMBNAIL" width="400px" />
+    <a href="(https://www.youtube.com/watch?v=Hk_KzLh9cA8)">
+        <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png" width="400px" />
+    </a>
+     <a href="(https://www.youtube.com/watch?v=FjWsulKJRnQ)">
+        <img src="[https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png](https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png)" width="400px" />
     </a>
 </p>
 
@@ -28,7 +28,7 @@ I’m a **Web Developer**, **UI/UX Designer**, and **Content Creator**. Check ou
 - **Mecasa - Working Student** | *April 2024 - Present*
   - Web development focusing on Vue.js and Tailwind CSS.
 - **Social Media - Heilbronner Falken** | *April 2024 - Present*
-  - Managing fan engagement and social media strategy.
+  - Matchday, Ideas and Fan Engagement
 
 ---
 
@@ -41,6 +41,5 @@ I’m a **Web Developer**, **UI/UX Designer**, and **Content Creator**. Check ou
 
 ### 📫 **Connect with Me**
 <p align="left">
-<a href="https://www.linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/your-ig-profile" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<a href="https://www.linkedin.com/in/julian-freudenberger-aa8a48268/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
