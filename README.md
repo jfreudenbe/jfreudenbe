@@ -14,11 +14,11 @@ I’m a **Software Engineer** with a passion for **UI/UX Design**. Check out my 
 
 ### 🎥 **Demo Videos**
 <p align="center">
-    <a href="(https://www.youtube.com/watch?v=Hk_KzLh9cA8)">
+    <a href="https://www.youtube.com/watch?v=Hk_KzLh9cA8">
         <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png" width="400px" />
     </a>
-     <a href="(https://www.youtube.com/watch?v=FjWsulKJRnQ)">
-        <img src="[https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_2.151f88f9.png](https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png)" width="400px" />
+     <a href="https://www.youtube.com/watch?v=FjWsulKJRnQ">
+        <img src="https://portfolio-website-tau-ten-86.vercel.app/img/Screenshot_8.6ff188d6.png" width="400px" />
     </a>
 </p>
 
